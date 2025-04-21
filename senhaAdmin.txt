@@ -1,0 +1,4 @@
+administrador:
+usuario = 'admin';
+email = 'glitch.store@gmail.com';
+senha = 'bcde1337';
